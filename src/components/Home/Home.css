@@ -1,0 +1,22 @@
+.product-details-container {
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+}
+
+.tshirt-info-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 20px;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.red {
+    background-color: red;
+}
+
+.bold {
+    font-size: xx-large;
+}

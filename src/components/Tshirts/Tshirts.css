@@ -1,0 +1,9 @@
+.t-shirt-information img {
+    height: 240px;
+}
+
+.t-shirt-information {
+    border: 2px solid lightcoral;
+    border-radius: 20px;
+    padding: 10px;
+}

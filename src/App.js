@@ -14,6 +14,7 @@ function App() {
       children:[
         {
        path:'/',
+       loader:async()=> fetch('tshirts.json'),
        element:<Home></Home>
       }
       ,{
